@@ -1,0 +1,19 @@
+controller
+camelCase
+
+Models
+PascalCase
+
+Views
+kebab-case
+
+
+
+
+
+            master/main
+|---------------------------------------->
+|-> doc -> actualizacion de documentacion
+|-> develop -> Construccion de funcionalidad nueva
+|-> fix o bug -> correccion de errorer
+|-> update -> Cambio en la logica
