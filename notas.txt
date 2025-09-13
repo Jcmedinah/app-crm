@@ -17,3 +17,24 @@ kebab-case
 |-> develop -> Construccion de funcionalidad nueva
 |-> fix o bug -> correccion de errorer
 |-> update -> Cambio en la logica
+
+
+
+1 -> Front -> visual
+2 -> Back -> Lógica
+3 -> DataBase -> Datps
+
+
+expresion == valor.test()
+
+                    -> NodeList-> Lista de nodos pero no tienen las propiedades o metodos de los arreglos
+no son lo mismo     -> HTMLCOllection -> Lista de etiquetas en tiempo real no trabaja con los metodos de los arreglor
+                    -> Array -> el arreglo de toda la vida
+                    
+Todo metodo inmutable de recorrido recibe como argumento una funcion anonima
+
+la funcion anonima recibe como parametro una variable de iteracion
+
+
+
+... SPREAD OPERATOR
